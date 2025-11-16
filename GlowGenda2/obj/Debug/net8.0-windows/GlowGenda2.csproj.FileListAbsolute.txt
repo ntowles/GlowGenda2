@@ -1,0 +1,17 @@
+C:\UAT\MS539 Programming Concepts\GlowGenda2\bin\Debug\net8.0-windows\GlowGenda2.exe
+C:\UAT\MS539 Programming Concepts\GlowGenda2\bin\Debug\net8.0-windows\GlowGenda2.deps.json
+C:\UAT\MS539 Programming Concepts\GlowGenda2\bin\Debug\net8.0-windows\GlowGenda2.runtimeconfig.json
+C:\UAT\MS539 Programming Concepts\GlowGenda2\bin\Debug\net8.0-windows\GlowGenda2.dll
+C:\UAT\MS539 Programming Concepts\GlowGenda2\bin\Debug\net8.0-windows\GlowGenda2.pdb
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.FormMain.resources
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.csproj.GenerateResource.cache
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.GeneratedMSBuildEditorConfig.editorconfig
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.AssemblyInfoInputs.cache
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.AssemblyInfo.cs
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.csproj.CoreCompileInputs.cache
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.dll
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\refint\GlowGenda2.dll
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.pdb
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.genruntimeconfig.cache
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\ref\GlowGenda2.dll
+C:\UAT\MS539 Programming Concepts\GlowGenda2\obj\Debug\net8.0-windows\GlowGenda2.Properties.Resources.resources
